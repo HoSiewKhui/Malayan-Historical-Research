@@ -4,13 +4,23 @@ This repository contains historical research papers by Ho Siew Khui based on arc
 
 ## Featured Research
 
+### The Lau Family Lineage - From the Tin Fields of Larut to Penang and Ipoh 
+
 ![The Lau Family Lineage](The%20Lau%20Family%20Lineage.png)
 
 📄 [Download PDF](Lau_Family_Lineage_v7.2_May2026.pdf)
 
+### The First Larut War Reconsidered (1861-1862) 
+
 ![First Larut War](First_Larut_War.png) 
 
 📄 [Download PDF](First_Larut_War_Reconsidered_v1.4.pdf) 
+
+### The Second Larut War Reconsidered (1865)
+
+![The Second Larut War](The_Second_Larut_War.png) 
+
+📄 [Download PDF](The%20Second%20Larut%20War%20Reconsidered%20v2.2.pdf) 
 
 ## Available Papers
 
