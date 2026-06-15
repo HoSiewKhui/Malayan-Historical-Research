@@ -32,7 +32,7 @@ This repository contains historical research papers by Ho Siew Khui based on arc
 
 ![3rd_4th_Larut_War](3rd_4th_Larut_War.png) 
 
-
+📄 [Download PDF](3rd_4th_Larut_Wars_Reconsidered_v3.5.pdf) 
 
 ## Available Papers
 
