@@ -22,6 +22,12 @@ This repository contains historical research papers by Ho Siew Khui based on arc
 
 📄 [Download PDF](The%20Second%20Larut%20War%20Reconsidered%20v2.2.pdf) 
 
+### The Penang Riots Reconsidered (1867)
+
+![Penang_Riots_1867](Penang_Riots_1867.png) 
+
+📄 [Download PDF](The_Penang_Riots_1867_Reconsidered_v1.2.pdf) 
+
 ## Available Papers
 
 1. [The Lau Family Lineage – From the Tin Fields of Larut to Penang and Ipoh](Lau_Family_Lineage_v7.2_May2026.pdf)
