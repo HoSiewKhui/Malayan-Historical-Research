@@ -28,6 +28,12 @@ This repository contains historical research papers by Ho Siew Khui based on arc
 
 📄 [Download PDF](The_Penang_Riots_1867_Reconsidered_v1.2.pdf) 
 
+### The Third and Fourth Larut War Reconsidered (1872-1874)
+
+![3rd_4th_Larut_War](3rd_4th_Larut_War.png) 
+
+
+
 ## Available Papers
 
 1. [The Lau Family Lineage – From the Tin Fields of Larut to Penang and Ipoh](Lau_Family_Lineage_v7.2_May2026.pdf)
