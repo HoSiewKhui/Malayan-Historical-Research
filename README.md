@@ -26,7 +26,7 @@ This repository contains historical research papers by Ho Siew Khui based on arc
 
 ![Penang_Riots_1867](Penang_Riots_1867.png) 
 
-📄 [Download PDF](The_Penang_Riots_1867_Reconsidered_v1.2.pdf) 
+📄 [Download PDF](The_Penang_Riots_1867_Reconsidered_v1.3.pdf) 
 
 ### The Third and Fourth Larut War Reconsidered (1872-1874)
 
