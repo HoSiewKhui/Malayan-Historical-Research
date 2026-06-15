@@ -2,6 +2,12 @@
 
 This repository contains historical research papers by Ho Siew Khui based on archival sources, including Colonial Office records from The National Archives, Kew, United Kingdom.
 
+## Featured Research
+
+![The Lau Family Lineage](The%20Lau%20Family%20Lineage.png)
+
+📄 [Download PDF](Lau_Family_Lineage_v7.2_May2026.pdf)
+
 ## Available Papers
 
 1. [The Lau Family Lineage – From the Tin Fields of Larut to Penang and Ipoh](Lau_Family_Lineage_v7.2_May2026.pdf)
