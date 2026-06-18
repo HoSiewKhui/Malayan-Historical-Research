@@ -40,11 +40,11 @@ This repository contains historical research papers by Ho Siew Khui based on arc
 
 2. [The First Larut War (1861–1862)](First_Larut_War_Reconsidered_v1.4.pdf)
 
-3. [The Second Larut War Reconsidered (1865)](The_Second_Larut_War_Reconsidered_v2.2.pdf)
+3. [The Second Larut War](The_Second_Larut_War_Reconsidered_v2.2.pdf)
 
 4. [The Third and Fourth Larut Wars Reconsidered (1872–1874)](3rd_4th_Larut_Wars_Reconsidered_v3.5.pdf)
 
-5. [The Penang Riots of 1867 Reconsidered](The_Penang_Riots_1867_Reconsidered_v1.2.pdf) 
+5. [The Penang Riots 1867](The_Penang_Riots_1867_Reconsidered_v1.2.pdf) 
 
 ## About This Repository
 
