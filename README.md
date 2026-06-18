@@ -20,7 +20,7 @@ This repository contains historical research papers by Ho Siew Khui based on arc
 
 ![The Second Larut War](The_Second_Larut_War.png) 
 
-📄 [Download PDF](The%20Second%20Larut%20War%20Reconsidered%20v2.2.pdf) 
+📄 [Download PDF](The%20Second%20Larut%20War%20Reconsidered%20v2.4.pdf) 
 
 ### The Penang Riots Reconsidered (1867)
 
