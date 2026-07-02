@@ -20,7 +20,7 @@ This repository contains historical research papers by Ho Siew Khui 何小驹 (H
 
 ![The Second Larut War](The_Second_Larut_War.png) 
 
-📄 [Download PDF](The%20Second%20Larut%20War%20Reconsidered%20v2.6.pdf) 
+📄 [Download PDF](The%20Second%20Larut%20War%20Reconsidered%20v2.7.pdf) 
 
 ### The Penang Riots Reconsidered (1867)
 
@@ -40,7 +40,7 @@ This repository contains historical research papers by Ho Siew Khui 何小驹 (H
 
 2. [The First Larut War (1861–1862)](First_Larut_War_Reconsidered_v1.4.pdf)
 
-3. [The Second Larut War](The%20Second%20Larut%20War%20Reconsidered%20v2.6.pdf)
+3. [The Second Larut War](The%20Second%20Larut%20War%20Reconsidered%20v2.7.pdf)
 
 4. [The Third and Fourth Larut Wars Reconsidered (1872–1874)](3rd_4th_Larut_Wars_Reconsidered_v3.6.pdf)
 
