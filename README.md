@@ -56,6 +56,10 @@ Readers are encouraged to consult the DOI information contained within each pape
 
 Ho Siew Khui
 
-Independent Historical Researcher
+**Independent Historical Researcher**
 
-Research interests include nineteenth-century Malayan history, the Larut Wars, the Penang Riots of 1867, Chinese secret societies, genealogy and archival research.
+My research specialises in nineteenth-century Malayan history, particularly the Larut Wars (1861–1874), the Penang Riots of 1867, Chinese secret societies and British colonial administration.
+
+Rather than attempting comprehensive narrative histories, my work re-examines specific historical narratives by testing them against surviving contemporaneous Colonial Office records and other primary sources. This evidence-led approach seeks to distinguish primary evidence from later interpretations and, where appropriate, to confirm, refine or challenge accepted historiography.
+
+Publications are permanently archived on Zenodo with DOI citations and are supported by this open GitHub repository.
