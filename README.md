@@ -54,12 +54,12 @@ Readers are encouraged to consult the DOI information contained within each pape
 
 ## Author
 
-Ho Siew Khui
+**Ho Siew Khui 何小驹 (Hé Xiǎojū)**
 
-**Independent Historical Researcher**
+Independent Historical Researcher
 
 My research specialises in nineteenth-century Malayan history, particularly the Larut Wars (1861–1874), the Penang Riots of 1867, Chinese secret societies and British colonial administration.
 
-Rather than attempting comprehensive narrative histories, my work re-examines specific historical narratives by testing them against surviving contemporaneous Colonial Office records and other primary sources. This evidence-led approach seeks to distinguish primary evidence from later interpretations and, where appropriate, to confirm, refine or challenge accepted historiography.
+Rather than attempting comprehensive narrative histories, my work re-examines specific historical narratives by testing them against surviving contemporaneous Colonial Office records and other primary sources. This evidence-led approach seeks to confirm, refine or challenge accepted historiography while distinguishing primary evidence from later interpretations wherever possible.
 
 Publications are permanently archived on Zenodo with DOI citations and are supported by this open GitHub repository.
