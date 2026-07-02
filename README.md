@@ -1,6 +1,6 @@
 # Malayan Historical Research
 
-This repository contains historical research papers by Ho Siew Khui based on archival sources, including Colonial Office records from The National Archives, Kew, United Kingdom.
+This repository contains historical research papers by Ho Siew Khui 何小驹 (Hé Xiǎojū) based on archival sources, including Colonial Office records from The National Archives, Kew, United Kingdom.
 
 ## Featured Research
 
