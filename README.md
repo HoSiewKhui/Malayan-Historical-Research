@@ -56,7 +56,8 @@ Readers are encouraged to consult the DOI information contained within each pape
 
 **Ho Siew Khui 何小驹 (Hé Xiǎojū)**
 
-Independent Historical Researcher
+Independent Historical Researcher  
+*Specialising in nineteenth-century Malayan historiography through evidence-led archival research.*
 
 My research specialises in nineteenth-century Malayan history, particularly the Larut Wars (1861–1874), the Penang Riots of 1867, Chinese secret societies and British colonial administration.
 
