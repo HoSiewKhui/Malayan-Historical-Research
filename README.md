@@ -2,13 +2,11 @@
 
 This repository contains historical research papers by Ho Siew Khui 何小驹 (Hé Xiǎojū) based on archival sources, including Colonial Office records from The National Archives, Kew, United Kingdom.
 
-## Featured Research
+## Research Collection I
 
-### The Lau Family Lineage - From the Tin Fields of Larut to Penang and Ipoh 
+### Reassessing the Larut Wars (1861-1874) and the Penang Riots (1867)
 
-![The Lau Family Lineage](The%20Lau%20Family%20Lineage.png)
-
-📄 [Download PDF](Lau_Family_Lineage_v7.2_May2026.pdf)
+📄 [Download PDF](Introduction_to_the-Research-Series.pdf)
 
 ### The First Larut War Reconsidered (1861-1862) 
 
@@ -34,17 +32,30 @@ This repository contains historical research papers by Ho Siew Khui 何小驹 (H
 
 📄 [Download PDF](3rd_4th_Larut_Wars_Reconsidered_v3.7.pdf) 
 
+
+---------------------------------
+
+## Research Collection II
+
+### The Lau Family Lineage - From the Tin Fields of Larut to Penang and Ipoh 
+
+![The Lau Family Lineage](The%20Lau%20Family%20Lineage.png)
+
+📄 [Download PDF](Lau_Family_Lineage_v7.2_May2026.pdf)
+
+
 ## Available Papers
 
-1. [The Lau Family Lineage – From the Tin Fields of Larut to Penang and Ipoh](Lau_Family_Lineage_v7.2_May2026.pdf)
+1. [The First Larut War (1861–1862)](First_Larut_War_Reconsidered_v1.4.pdf)
 
-2. [The First Larut War (1861–1862)](First_Larut_War_Reconsidered_v1.4.pdf)
+2. [The Second Larut War](The%20Second%20Larut%20War%20Reconsidered%20v2.8.pdf)
 
-3. [The Second Larut War](The%20Second%20Larut%20War%20Reconsidered%20v2.8.pdf)
+3. [The Third and Fourth Larut Wars Reconsidered (1872–1874)](3rd_4th_Larut_Wars_Reconsidered_v3.7.pdf)
 
-4. [The Third and Fourth Larut Wars Reconsidered (1872–1874)](3rd_4th_Larut_Wars_Reconsidered_v3.7.pdf)
+4. [The Penang Riots 1867](The_Penang_Riots_1867_Reconsidered_v1.3.pdf)
 
-5. [The Penang Riots 1867](The_Penang_Riots_1867_Reconsidered_v1.3.pdf) 
+5. [The Lau Family Lineage – From the Tin Fields of Larut to Penang and Ipoh](Lau_Family_Lineage_v7.2_May2026.pdf) 
+
 
 ## About This Repository
 
