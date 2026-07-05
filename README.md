@@ -6,7 +6,7 @@ This repository contains historical research papers by Ho Siew Khui 何小驹 (H
 
 ### Reassessing the Larut Wars (1861-1874) and the Penang Riots (1867)
 
-📄 [Download PDF](Introduction to the Research Series.pdf)    
+📄 [Download PDF](Introduction_to_the_Research_Series.pdf)     
 
 ### The First Larut War Reconsidered (1861-1862) 
 
