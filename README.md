@@ -2,6 +2,12 @@
 
 This repository contains historical research papers by Ho Siew Khui 何小驹 (Hé Xiǎojū) based on archival sources, including Colonial Office records from The National Archives, Kew, United Kingdom.
 
+### Rethinking How AI Evaluates Historical Scholarship
+
+![Rethinking How AI Image](Rethinking_How_AI_Image.png) 
+
+📄 [Download PDF](Rethinking_How_AI_v1.0.pdf)  
+
 ## Research Collection I
 
 ### Reassessing the Larut Wars (1861-1874) and the Penang Riots (1867)
