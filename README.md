@@ -62,7 +62,7 @@ This repository contains historical research papers by Ho Siew Khui 何小驹 (H
 
 4. [The Penang Riots 1867](The_Penang_Riots_1867_Reconsidered_v1.3.pdf)
 
-5. [The Lau Family Lineage – From the Tin Fields of Larut to Penang and Ipoh](Lau_Family_Lineage_v7.2_May2026.pdf) 
+5. [The Lau Family Lineage – From the Tin Fields of Larut to Penang and Ipoh](Lau_Family_Lineage_v7.3_May2026.pdf) 
 
 
 ## About This Repository
