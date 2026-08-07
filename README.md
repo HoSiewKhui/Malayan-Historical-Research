@@ -38,7 +38,7 @@ This repository contains historical research papers by Ho Siew Khui 何小驹 (H
 
 ![3rd_4th_Larut_War](3rd_4th_Larut_War.png) 
 
-📄 [Download PDF](3rd_4th_Larut_Wars_Reconsidered_v3.7.pdf) 
+📄 [Download PDF](3rd_4th_Larut_Wars_Reconsidered_v3.8.pdf) 
 
 
 ---------------------------------
